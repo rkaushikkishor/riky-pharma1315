@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <ellipse cx="100" cy="100" rx="40" ry="75" fill="#10B981" opacity="0.1"/>
+  <ellipse cx="100" cy="100" rx="35" ry="70" fill="#10B981" opacity="0.2"/>
+  <ellipse cx="100" cy="100" rx="30" ry="65" fill="#10B981"/>
+  <rect x="70" y="95" width="60" height="10" fill="white" opacity="0.5"/>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="16" fill="#059669" text-anchor="middle" font-weight="bold">CAPSULE</text>
+</svg>

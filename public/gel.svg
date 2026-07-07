@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="50" y="50" width="100" height="90" rx="12" fill="#14B8A6" opacity="0.1"/>
+  <rect x="55" y="55" width="90" height="80" rx="10" fill="#14B8A6" opacity="0.2"/>
+  <rect x="60" y="60" width="80" height="70" rx="8" fill="#14B8A6"/>
+  <rect x="70" y="40" width="60" height="20" rx="4" fill="#0D9488"/>
+  <ellipse cx="100" cy="95" rx="30" ry="20" fill="#5EEAD4" opacity="0.4"/>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="16" fill="#0F766E" text-anchor="middle" font-weight="bold">GEL</text>
+</svg>
